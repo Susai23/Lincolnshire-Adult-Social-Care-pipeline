@@ -1,0 +1,15 @@
+area_name,year,total_population,population_65_plus,share_65_plus_pct,source
+Lincolnshire,2022,775864,184313,23.8,projection
+Lincolnshire,2025,795680,194060,24.4,projection
+Lincolnshire,2030,814710,217390,26.7,projection
+Lincolnshire,2035,831116,238846,28.7,projection
+Lincolnshire,2040,845331,251695,29.8,projection
+Lincolnshire,2045,859433,257692,30.0,projection
+Boston,2024,71080,15067,21.2,district
+East Lindsey,2024,145183,45736,31.5,district
+Lincoln,2024,105114,15875,15.1,district
+Lincolnshire,2024,789502,190608,24.1,district
+North Kesteven,2024,122468,29277,23.9,district
+South Holland,2024,99298,24029,24.2,district
+South Kesteven,2024,147151,35105,23.9,district
+West Lindsey,2024,99208,25519,25.7,district

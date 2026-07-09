@@ -1,0 +1,55 @@
+measure_code,measure_label,area_name,value,england_value,gap_vs_england
+2A,Reablement: no further support needed,East Midlands,81.1,77.1,4.0
+2A,Reablement: no further support needed,Staffordshire,60.3,77.1,-16.8
+2A,Reablement: no further support needed,Worcestershire,13.0,77.1,-64.1
+2A,Reablement: no further support needed,Lincolnshire,98.0,77.1,20.9
+2A,Reablement: no further support needed,Nottinghamshire,81.7,77.1,4.6
+2A,Reablement: no further support needed,Norfolk,86.6,77.1,9.5
+2A,Reablement: no further support needed,Suffolk,62.9,77.1,-14.2
+2A,Reablement: no further support needed,Somerset,68.6,77.1,-8.5
+2A,Reablement: no further support needed,Devon,94.7,77.1,17.6
+2B,"Admissions to care, 18-64 (per 100k)",East Midlands,18.9,17.0,1.9
+2B,"Admissions to care, 18-64 (per 100k)",Staffordshire,18.8,17.0,1.8
+2B,"Admissions to care, 18-64 (per 100k)",Worcestershire,22.8,17.0,5.8
+2B,"Admissions to care, 18-64 (per 100k)",Lincolnshire,22.8,17.0,5.8
+2B,"Admissions to care, 18-64 (per 100k)",Nottinghamshire,22.8,17.0,5.8
+2B,"Admissions to care, 18-64 (per 100k)",Norfolk,26.8,17.0,9.8
+2B,"Admissions to care, 18-64 (per 100k)",Suffolk,16.0,17.0,-1.0
+2B,"Admissions to care, 18-64 (per 100k)",Somerset,13.2,17.0,-3.8
+2B,"Admissions to care, 18-64 (per 100k)",Devon,22.6,17.0,5.6
+2C,"Admissions to care, 65+ (per 100k)",East Midlands,561.2,592.5,-31.3
+2C,"Admissions to care, 65+ (per 100k)",Staffordshire,626.1,592.5,33.6
+2C,"Admissions to care, 65+ (per 100k)",Worcestershire,544.8,592.5,-47.7
+2C,"Admissions to care, 65+ (per 100k)",Lincolnshire,588.1,592.5,-4.4
+2C,"Admissions to care, 65+ (per 100k)",Nottinghamshire,537.3,592.5,-55.2
+2C,"Admissions to care, 65+ (per 100k)",Norfolk,737.8,592.5,145.3
+2C,"Admissions to care, 65+ (per 100k)",Suffolk,666.5,592.5,74.0
+2C,"Admissions to care, 65+ (per 100k)",Somerset,613.7,592.5,21.2
+2C,"Admissions to care, 65+ (per 100k)",Devon,615.2,592.5,22.7
+2D1,Still at home 12wks post-discharge (65+),East Midlands,58.4,60.7,-2.3
+2D1,Still at home 12wks post-discharge (65+),Staffordshire,61.54,60.7,0.8
+2D1,Still at home 12wks post-discharge (65+),Worcestershire,62.36,60.7,1.7
+2D1,Still at home 12wks post-discharge (65+),Lincolnshire,63.24,60.7,2.5
+2D1,Still at home 12wks post-discharge (65+),Nottinghamshire,57.89,60.7,-2.8
+2D1,Still at home 12wks post-discharge (65+),Norfolk,63.76,60.7,3.1
+2D1,Still at home 12wks post-discharge (65+),Suffolk,59.56,60.7,-1.1
+2D1,Still at home 12wks post-discharge (65+),Somerset,61.34,60.7,0.6
+2D1,Still at home 12wks post-discharge (65+),Devon,68.12,60.7,7.4
+4B,Safeguarding: risk reduced or removed,East Midlands,92.2,91.2,1.0
+4B,Safeguarding: risk reduced or removed,Staffordshire,95.2,91.2,4.0
+4B,Safeguarding: risk reduced or removed,Worcestershire,91.9,91.2,0.7
+4B,Safeguarding: risk reduced or removed,Lincolnshire,93.8,91.2,2.6
+4B,Safeguarding: risk reduced or removed,Nottinghamshire,92.6,91.2,1.4
+4B,Safeguarding: risk reduced or removed,Norfolk,92.9,91.2,1.7
+4B,Safeguarding: risk reduced or removed,Suffolk,90.2,91.2,-1.0
+4B,Safeguarding: risk reduced or removed,Somerset,96.3,91.2,5.1
+4B,Safeguarding: risk reduced or removed,Devon,86.8,91.2,-4.4
+6A,Care workforce turnover,East Midlands,24.8,23.7,1.1
+6A,Care workforce turnover,Staffordshire,24.4,23.7,0.7
+6A,Care workforce turnover,Worcestershire,24.2,23.7,0.5
+6A,Care workforce turnover,Lincolnshire,30.2,23.7,6.5
+6A,Care workforce turnover,Nottinghamshire,24.6,23.7,0.9
+6A,Care workforce turnover,Norfolk,20.9,23.7,-2.8
+6A,Care workforce turnover,Suffolk,21.7,23.7,-2.0
+6A,Care workforce turnover,Somerset,24.4,23.7,0.7
+6A,Care workforce turnover,Devon,26.8,23.7,3.1
