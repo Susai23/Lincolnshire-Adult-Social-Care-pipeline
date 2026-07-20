@@ -11,20 +11,20 @@ to Lincolnshire County Council.
 Python (clean)  ->  SQL / SQLite (join + aggregate)  ->  Power BI (model + visualise)
 ```
 
-1. **`notebooks/clean_and_build.ipynb`** — reads the four raw source files,
-   cleans and reshapes them (unpivoting wide ASCOF tables, computing 65+
-   population shares, filtering the national CQC directory down to
-   Lincolnshire), and writes tidy CSVs to `clean/`.
-2. **`sql/01_create_tables.sql`** and **`sql/02_build_dashboard_tables.sql`**
+1. **`Python/Lincolnshire Adult Social Care Data Pipeline.ipynb`** — reads the
+   raw source files, cleans and reshapes them (unpivoting wide ASCOF tables,
+   computing 65+ population shares, filtering the national CQC directory down
+   to Lincolnshire), and writes tidy CSVs to `Cleaned data/`.
+2. **`SQL/01_create_tables.sql`** and **`SQL/02_build_dashboard_tables.sql`**
    — load the cleaned CSVs into a local SQLite database and join/aggregate
    them into three flat, dashboard-ready tables (one per Power BI page).
 3. **Power BI** — imports the three dashboard tables directly and builds the
-   interactive report (`dashboard/lincolnshire_adult_care.pbix`).
+   interactive report (`Power BI/Lincolnshire_Adult_Social_Care_Intelligence.pbix`).
 
 Run the whole pipeline with:
 ```bash
-cd notebooks
-jupyter nbconvert --to notebook --execute --inplace clean_and_build.ipynb
+cd Python
+jupyter nbconvert --to notebook --execute --inplace "Lincolnshire Adult Social Care Data Pipeline.ipynb"
 ```
 
 ## Data sources (all Open Government Licence)
@@ -68,10 +68,10 @@ The national CQC file (~110MB) is not committed to this repo — see
 ## Repo structure
 
 ```
-raw/          Original downloaded source files (national CQC file excluded)
-clean/        Tidy, cleaned CSVs produced by the notebook
-sql/          SQL scripts for table creation and the join/aggregation logic
-notebooks/    The executed Jupyter notebook and equivalent .py scripts
-dashboard/    The Power BI .pbix file
+Raw data/     Original downloaded source files (national CQC file excluded)
+Cleaned data/ Tidy, cleaned CSVs produced by the notebook
+SQL/          SQL scripts for table creation and the join/aggregation logic
+Python/       The executed Jupyter notebook
+Power BI/     The Power BI .pbix file
 ```
 
