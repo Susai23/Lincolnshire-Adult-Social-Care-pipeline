@@ -2,8 +2,9 @@
 
 A self-serve Power BI dashboard built from three public data sources, showing
 outcomes, demand and provider quality for Adult Social Care in Lincolnshire.
-Built as portfolio work for a Performance and Intelligence Officer application
-to Lincolnshire County Council.
+Built as a skill-development project to practise the end-to-end data
+pipeline: Python for cleaning, SQL for joining and aggregating, and Power BI
+for modelling and visualisation.
 
 ## Pipeline
 
